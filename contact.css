@@ -124,3 +124,39 @@
     max-width: 100%;
     height: auto;
   }
+
+  
+  .dark{
+    background: black;
+    
+    overflow: hidden;
+    filter: brightness(.5);
+    
+  }
+
+  #map {
+    height: 400px;
+    /* The height is 400 pixels */
+    width: 100%;
+    /* The width is the width of the web page */
+  }
+
+  .con{
+
+    position: absolute;
+    color: white;
+    top: 35%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-family: 'Roboto', sans-serif;
+    }
+
+    .con2{
+
+      position: absolute;
+      color: rgba(255, 255, 255, 0.575);
+      top: 43%;
+      left: 51%;
+      transform: translate(-50%, -50%);
+      font-family: 'Roboto', sans-serif;
+      }
