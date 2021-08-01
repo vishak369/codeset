@@ -145,7 +145,7 @@
 
     position: absolute;
     color: white;
-    top: 35%;
+    top: 27%;
     left: 50%;
     transform: translate(-50%, -50%);
     font-family: 'Roboto', sans-serif;
@@ -155,8 +155,25 @@
 
       position: absolute;
       color: rgba(255, 255, 255, 0.575);
-      top: 43%;
+      top: 36%;
       left: 51%;
       transform: translate(-50%, -50%);
       font-family: 'Roboto', sans-serif;
-      }
+    }
+
+  
+    
+    .con3{
+      font-weight: bolder;
+      font-size: 18px;
+      top: 51%;
+      left: 50%;
+      color: rgb(240, 238, 231);
+      position: absolute;
+      transform: translate(-50%, -50%);
+      font-family: 'Roboto', sans-serif;
+      margin-top: -24px;
+
+    }
+
+    
