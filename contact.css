@@ -141,6 +141,18 @@
     /* The width is the width of the web page */
   }
 
+
+  .test{
+
+    position: absolute;
+    color: white;
+    top: 45%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-family: 'Roboto', sans-serif;
+    }
+
+
   .con{
 
     position: absolute;
