@@ -143,3 +143,18 @@
 button:hover, a:hover {
   opacity: 0.7;
 }
+
+
+
+@media screen and (min-width: 601px) {
+  .welcome {
+    font-size: 45px;
+  }
+}
+
+/* If the screen size is 600px wide or less, set the font-size of <div> to 30px */
+@media screen and (max-width: 600px) {
+  .welcome {
+    font-size: 22px;
+  }
+}
